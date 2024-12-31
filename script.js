@@ -8,7 +8,7 @@ form.addEventListener('submit', (e) => {
     const password = document.getElementById('password').value;
 
     // Contoh validasi sederhana
-    if (username === 'admin' && password === '12345') {
+    if (username === 'yogaayu' && password === '050524') {
         alert('Login berhasil!');
         errorMessage.textContent = '';
     } else {
